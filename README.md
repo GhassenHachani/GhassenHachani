@@ -15,7 +15,7 @@
 
 
 ## 📰 Headlines 
-- 🏢 Currently working at  [ANSES](https://www.anses.fr/fr) as a Data Scientist
+- 🏢 Currently working at  [ANSES](https://www.anses.fr/fr) as a Data Scientist / Software Engineer
 - 🎓 Education : M.Sc.Eng in Applied Mathematics & Computer Science at [Sorbonne University (Polytech Sorbonne)](https://www.polytech.sorbonne-universite.fr)
 
 ## 🚀 My Projects
