@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Ghassen Hachani  
 
-## 💻 Data Scientist / ML Engineer
+## 💻 Data Scientist / Data Engineer
 
 ### Get in touch with me ! 
 <p align="center">
